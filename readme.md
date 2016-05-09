@@ -1,5 +1,6 @@
 # Demo : 
 - Link Demo : http://crudajax.budisuryana.website/
+- Login Demo : email : admin@email.com password : admin
 - Find Me on http://budisuryana.website/
 
 # Installation
