@@ -1,5 +1,5 @@
-# Link Demo : 
-- crudajax.budisuryana.website
+# Demo : 
+- Link Demo : http://crudajax.budisuryana.website/
 - Find Me on http://budisuryana.website/
 
 # Installation
